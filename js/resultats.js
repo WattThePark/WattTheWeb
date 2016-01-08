@@ -1,1 +1,0 @@
-document.getElementById("text").innerHTML="Vous avez alimenté une ampoule pendant 6 minutes <br/>";
